@@ -21,7 +21,7 @@ Summary:	Python implementation of password-based key derivation function, PBKDF2
 # Summary(pl.UTF-8):	-
 Name:		python-%{pypi_name}
 Version:	1.3
-Release:	8
+Release:	9
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/02/c0/6a2376ae81beb82eda645a091684c0b0becb86b972def7849ea9066e3d5e/pbkdf2-%{version}.tar.gz
